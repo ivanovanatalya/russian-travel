@@ -1,9 +1,3 @@
-@import url(../into/__title/intro__title.css);
-@import url(../into/__text/intro__text.css);
-@import url(../into/__list/intro__list.css);
-@import url(../into/__list/_text/intro__list-text.css);
-@import url(../into/__list/_numbers/intro__list-numbers.css);
-
 .intro {
   margin: 0 auto;
   margin-top: 92px;
