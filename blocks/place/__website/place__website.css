@@ -7,6 +7,9 @@
 
 @media screen and (max-width: 767px) {
   .place__website {
-    display: none;
+    /*display: none;*/
+    padding: 0 16px;
+    align-self: flex-start;
+    margin: 0 0 32px;
   }
 }
